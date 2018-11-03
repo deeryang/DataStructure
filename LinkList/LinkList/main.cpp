@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 struct LinkList
 {
 	int val;
@@ -8,5 +10,7 @@ struct LinkList
 
 int main()
 {
-
+	cout << "Hello" << endl;
+	system("pause");
+	return 0;
 }
